@@ -1,4 +1,3 @@
-# global-billionaires-statistics-analysis
 # \# Global Billionaires Statistics Analysis
 
 # 
@@ -7,6 +6,7 @@
 
 # 
 
+# This project presents a data analysis of global billionaire statistics using \*\*Microsoft Excel, Power Query, and Power BI\*\*.
 
 # 
 
