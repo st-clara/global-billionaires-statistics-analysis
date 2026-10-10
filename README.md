@@ -1,20 +1,24 @@
-# \# Global Billionaires Statistics Analysis
+# Global Billionaires Statistics Analysis
 
 # 
 
-# \## Project Overview
+# Project Overview
 
 # 
 
-# This project presents a data analysis of global billionaire statistics using \*\*Microsoft Excel, Power Query, and Power BI\*\*.
+# This project explores global billionaire statistics using Microsoft Excel, Power Query, and Power BI.
 
 # 
 
-# The project demonstrates the process of transforming a raw dataset into a structured and analysis-ready dataset, followed by exploratory analysis and visualization of billionaire wealth, geographic distribution, industries, and other characteristics.
+# It demonstrates the data analytics process, from cleaning and transforming raw data to conducting exploratory analysis and presenting insights through data visualizations.
 
 # 
 
-# \## Objectives
+# The analysis explores billionaire wealth, geographic distribution, industries, and the characteristics of billionaires represented in the dataset.
+
+# 
+
+# Objectives
 
 # 
 
@@ -22,33 +26,33 @@
 
 # 
 
-# \* Clean and transform the raw billionaire dataset.
+# \- Clean and transform the raw billionaire dataset.
 
-# \* Identify and address data quality issues.
+# \- Identify and address data quality issues.
 
-# \* Analyze billionaire wealth across countries, cities, and industries.
+# \- Analyze billionaire wealth across countries, cities, and industries.
 
-# \* Examine the distribution of self-made and non-self-made billionaires.
+# \- Examine the distribution of self-made and non-self-made billionaires.
 
-# \* Identify patterns and notable trends within the dataset.
+# \- Identify patterns and notable trends within the dataset.
 
-# \* Present findings through clear data visualizations.
-
-# 
-
-# \## Tools Used
+# \- Present findings through clear data visualizations.
 
 # 
 
-# \* \*\*Microsoft Excel\*\* — Data organization and analysis
-
-# \* \*\*Power Query\*\* — Data cleaning and transformation
-
-# \* \*\*Power BI\*\* — Data visualization and dashboard development
+# Tools Used
 
 # 
 
-# \## Data Preparation
+# \- Microsoft Excel: Data organization and analysis.
+
+# \- Power Query: Data cleaning and transformation.
+
+# \- Power BI: Data visualization and dashboard development.
+
+# 
+
+# Data Cleaning and Preparation
 
 # 
 
@@ -56,115 +60,105 @@
 
 # 
 
-# The data was cleaned and transformed using \*\*Power Query\*\*, including data preparation, formatting, and removal of inconsistencies to produce a structured dataset suitable for analysis.
+# Power Query was used to clean and transform the data, address inconsistencies, and prepare a structured dataset for analysis.
 
 # 
 
-# The final cleaned dataset contains \*\*171 billionaire records across 24 countries\*\*.
+# The cleaned dataset used for this analysis contains 171 billionaire records across 24 countries.
 
 # 
 
-# \## Analysis
+# Analysis Performed
 
 # 
 
-# The analysis explored several aspects of the dataset, including:
+# The analysis explored:
 
 # 
 
-# \* Total billionaire wealth by country
+# \- Total billionaire wealth by country.
 
-# \* Billionaire wealth by industry
+# \- Billionaire wealth by industry.
 
-# \* Billionaire wealth by city
+# \- Billionaire wealth by city.
 
-# \* Self-made versus non-self-made billionaires
+# \- Self-made versus non-self-made billionaires.
 
-# \* Distribution of billionaires across countries and industries
+# \- The distribution of billionaires across countries and industries.
 
-# \* Other descriptive statistics from the dataset
-
-# 
-
-# \## Key Findings
+# \- Descriptive statistics and patterns within the dataset.
 
 # 
 
-# The analysis identified several notable patterns within the cleaned dataset:
+# Key Findings
 
 # 
 
-# \* The \*\*United States\*\* accounts for a substantial share of the billionaires represented in the dataset.
-
-# \* \*\*Technology\*\* is one of the major industries represented among the billionaires.
-
-# \* \*\*Fashion \& Retail\*\* records the highest total wealth among the industries analyzed in this dataset.
-
-# \* The majority of the billionaires in the cleaned dataset are classified as \*\*self-made\*\*.
-
-# \* Billionaire wealth is concentrated among a relatively small number of countries, industries, and cities.
+# The analysis identified the following patterns within the cleaned dataset:
 
 # 
 
-# These findings describe the dataset used in this project and should not be interpreted as representing all billionaires globally.
+# \- Geographic distribution: The United States accounts for a substantial share of the billionaires represented in the dataset.
+
+# \- Industry representation: Technology is one of the major industries represented among the billionaires.
+
+# \- Industry wealth: Fashion \& Retail records the highest total wealth among the industries analyzed in this dataset.
+
+# \- Self-made status: The majority of the billionaires in the cleaned dataset are classified as self-made.
+
+# \- Wealth concentration: Billionaire wealth is concentrated among a relatively small number of countries, industries, and cities.
 
 # 
 
-# \## Visualizations
+# These findings describe the dataset analyzed in this project and should not be interpreted as representing all billionaires globally.
 
 # 
 
-# The visualization stage includes charts and dashboard elements designed to communicate the major findings from the analysis.
+# Visualizations
 
 # 
 
-# Planned visualizations include:
+# The project includes data visualizations designed to make patterns and comparisons easier to understand.
 
 # 
 
-# \* Billionaire wealth by country
-
-# \* Billionaire wealth by industry
-
-# \* Self-made versus non-self-made billionaires
-
-# \* Top cities by billionaire wealth
+# The visualizations explore billionaire wealth by country and industry, the distribution of self-made and non-self-made billionaires, and billionaire wealth across cities.
 
 # 
 
-# \## Skills Demonstrated
+# Skills Demonstrated
 
 # 
 
-# This project demonstrates practical experience in:
+# \- Data cleaning and preparation.
+
+# \- Data transformation using Power Query.
+
+# \- Exploratory data analysis.
+
+# \- Microsoft Excel.
+
+# \- Power BI.
+
+# \- Data visualization.
+
+# \- Data interpretation.
+
+# \- Analytical reporting.
 
 # 
 
-# \* Data cleaning
-
-# \* Data transformation
-
-# \* Exploratory data analysis
-
-# \* Excel
-
-# \* Power Query
-
-# \* Power BI
-
-# \* Data visualization
-
-# \* Data interpretation
-
-# \* Analytical reporting
+# Project Purpose
 
 # 
 
-# \## Project Purpose
+# This project forms part of my growing data analytics portfolio. It demonstrates my ability to work through the data analytics process, from raw data preparation to analysis and visualization, and communicate findings clearly.
 
 # 
 
-# This project forms part of my growing data analytics and research portfolio, demonstrating my ability to take a dataset from \*\*raw data through cleaning, analysis, and visualization\*\* and communicate the resulting insights clearly.
+# Project Files
 
+# 
 
+# Explore the repository folders to access the dataset, analysis files, and visualizations included in this project.
 
